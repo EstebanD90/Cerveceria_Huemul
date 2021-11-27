@@ -1,0 +1,22 @@
+.cerveza {
+  background-color: crimson;
+
+  display: flex;
+  flex-direction: column;
+  width: 320;
+  height: 800;
+  align-items: center;
+  margin: 20;
+}
+
+.count {
+  padding: 2px;
+  margin: 1px;
+
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #0d3b66;
+}
